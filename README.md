@@ -1,6 +1,7 @@
 These algorithms were developed in my Master's thesis to obtain optimal designs, considering criterion D, with fractional polynomials as non-linear functions. It is based on the coordinate-exchange algorithm.
 
-*References*
+**References**
+
 da Silva, M. A., 2014. Crit´erios compostos para delineamentos ´otimos robustos. Dis
 serta¸c˜ao de mestrado, Universidade Estadual Paulista (Unesp).
 Gilmour, S. G., 2017. Bayesian optimal designs for fitting fractional polynomial response
